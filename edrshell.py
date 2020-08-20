@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/8/18 8:22 下午
 # @Author  : Ruirui
-# @File    : edr2.py
+# @File    : edrshell.py
 
 import socket, os
 import threading
